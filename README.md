@@ -1,2 +1,27 @@
-# Gabriel-Dev03
-# Olá, eu sou o Gabriel! 👋  🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**   💻 Aprendendo **Python** e praticando lógica de programação   🚀 Explorando áreas como **Back-end, Cybersecurity e DevOps**    ---  ## 📂 Meus Projetos e Estudos - **Desafios/Codando**: exercícios de loops, condições, listas e desafios diversos   - Compartilhando código e evoluindo a cada commit   - Sempre aberto a **feedbacks e dicas de organização** para melhorar meus projetos    ---  ## ⚡ Habilidades em Desenvolvimento - Python (iniciante a intermediário)   - Estruturas de repetição e condição   - Listas e manipulação de dados    ---  ## 📬 Contato - [LinkedIn](https://www.linkedin.com/in/seu-linkedin/)   - [GitHub](https://github.com/gabrielpaula)    ---  > "Aprender, praticar e compartilhar é o caminho para evoluir na programação." 🚀
+# Olá, eu sou o Gabriel! 👋
+
+**Gabriel | Estudante de ADS | Aprendendo Python em projetos, explorando Front-end e compartilhando desafios no GitHub**
+
+---
+
+## 📂 Meus Projetos e Estudos
+- **Desafios/Codando**: exercícios de loops, condições, listas e desafios diversos  
+- Compartilhando código e evoluindo a cada commit  
+- Sempre aberto a **feedbacks e dicas de organização** para melhorar meus projetos  
+
+---
+
+## ⚡ Habilidades em Desenvolvimento
+- Python (iniciante a intermediário)  
+- Estruturas de repetição e condição  
+- Listas e manipulação de dados  
+
+---
+
+## 📬 Contato
+- [LinkedIn](https://www.linkedin.com/in/gabriel-jesus-06b7932b6/)  
+- [GitHub](https://github.com/Gabriel-Dev03)  
+
+---
+
+> "Aprender, praticar e compartilhar é o caminho para evoluir na programação." 🚀
