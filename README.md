@@ -12,7 +12,8 @@
 ---
 
 ## ⚡ Habilidades em Desenvolvimento
-- Python (iniciante a intermediário)  
+- Python (iniciante a intermediário)
+- funções   
 - Estruturas de repetição e condição  
 - Listas e manipulação de dados  
 
