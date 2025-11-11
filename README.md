@@ -16,7 +16,7 @@
 ---
 
 ### 🚧 Meus Projetos e Estudos
-- 💡 **Desafios/Codanox**: exercícios de loops, condições, listas e desafios diversos  
+- 💡 **Desafios/Codano**: exercícios de loops, condições, listas e desafios diversos  
 - 🧩 Compartilhando código e evoluindo a cada commit  
 - 💬 Sempre aberto a **feedbacks e dicas de organização** para melhorar meus projetos  
 
@@ -47,8 +47,8 @@
 ### 🎯 Metas de Estudo (2025)
 | Objetivo | Status |
 |-----------|--------|
-| 🧠 Finalizar curso de **Python** do Gustavo Guanabara | ✅ Concluindo |
-| ⚙️ Iniciar estudos em **Back-end** (APIs, Flask, Django) | 🚧 Em andamento |
+| 🧠 Finalizar curso de **Python** do Gustavo Guanabara | ✅ Concluido |
+| ⚙️ Iniciar estudos em **Back-end** (APIs, Flask, Django) | 🕓 Planejado |
 | 🌐 Aprender **HTML, CSS e JavaScript** básicos | 🔄 Em progresso |
 | ☁️ Entender fundamentos de **Git e GitHub** | ✅ Concluído |
 | 💼 Criar meu primeiro **portfólio online** | 🕓 Planejado |
