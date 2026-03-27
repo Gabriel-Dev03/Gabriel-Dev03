@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Estudante de <b>Análise e Desenvolvimento de Sistemas (ADS)</b> <br>
-  🚀 Aprendendo <b>Python</b> Back-end</b> <br>
+  🚀 <b>Python</b> Back-end</b> <br>
   🌱 Explorando também o mundo do <b>Front-end</b> e desenvolvendo projetos práticos
 </p>
 
@@ -26,7 +26,7 @@
 - 🔁 Estruturas de **repetição e condição**  
 - 🧮 **Funções** e **listas**  
 - 💾 Manipulação de **dados e arquivos**  
-- 🧱 Iniciando meus estudos em **Back-end**
+- 
 
 ---
 
