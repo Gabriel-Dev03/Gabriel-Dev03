@@ -2,14 +2,13 @@
 
 <p align="center">
   💻 Estudante de <b>Análise e Desenvolvimento de Sistemas (ADS)</b> <br>
-  🚀 Aprendendo <b>Python</b> e conceitos fundamentais de <b>programação e Back-end</b> <br>
+  🚀 Aprendendo <b>Python</b> Back-end</b> <br>
   🌱 Explorando também o mundo do <b>Front-end</b> e desenvolvendo projetos práticos
 </p>
 
 ---
 
-### 🧠 Sobre mim
-- 🎓 Universidade Cruzeiro do Sul  
+### 🧠 Sobre mim  
 - 📍 Ribeirão Pires - São Paulo  
 - ✉️ Contato: **gabrieljesus.w.paula@gmail.com**
 
