@@ -1,88 +1,93 @@
-<h1 align="center">👋 Olá, eu sou o Gabriel!</h1>
+<div align="center">
 
-<p align="center">
-  💻 Estudante de <b>Análise e Desenvolvimento de Sistemas (ADS)</b> <br>
-  🚀 <b>Python</b> Back-end</b> <br>
-  🌱 Explorando também o mundo do <b>Front-end</b> e desenvolvendo projetos práticos
-</p>
+```
+ ██████╗  █████╗ ██████╗ ██████╗ ██╗███████╗██╗         ██████╗ ███████╗██╗   ██╗
+██╔════╝ ██╔══██╗██╔══██╗██╔══██╗██║██╔════╝██║         ██╔══██╗██╔════╝██║   ██║
+██║  ███╗███████║██████╔╝██████╔╝██║█████╗  ██║         ██║  ██║█████╗  ██║   ██║
+██║   ██║██╔══██║██╔══██╗██╔══██╗██║██╔══╝  ██║         ██║  ██║██╔══╝  ╚██╗ ██╔╝
+╚██████╔╝██║  ██║██████╔╝██║  ██║██║███████╗███████╗    ██████╔╝███████╗ ╚████╔╝ 
+ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝    ╚═════╝ ╚══════╝  ╚═══╝  
+```
 
----
+### `< Gabriel Jesus />` — Desenvolvedor em formação
 
-### 🧠 Sobre mim  
-- 📍 Ribeirão Pires - São Paulo  
-- ✉️ Contato: **gabrieljesus.w.paula@gmail.com**
-
----
-
-### 🚧 Meus Projetos e Estudos
-- 💡 **Desafios/Codano**: exercícios de loops, condições, listas e desafios diversos  
-- 🧩 Compartilhando código e evoluindo a cada commit  
-- 💬 Sempre aberto a **feedbacks e dicas de organização** para melhorar meus projetos  
+*Transformando lógica em soluções reais, um script de cada vez.*
 
 ---
 
-### ⚙️ Habilidades em Desenvolvimento
-- 🐍 **Python** *(nível iniciante → intermediário)*  
-- 🔁 Estruturas de **repetição e condição**  
-- 🧮 **Funções** e **listas**  
-- 💾 Manipulação de **dados e arquivos**  
-- 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ---
 
-### 🧰 Tecnologias e Ferramentas
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode"/>
-</p>
+## 👤 Sobre mim
+
+Sou desenvolvedor em formação com foco em **Python**, apaixonado por automações e por resolver problemas do dia a dia com código.  
+Ainda estou construindo meu caminho na área de tecnologia — com projetos reais, estudo constante e muita vontade de crescer.
+
+- 🔭 Atualmente estudando **Python Backend** na DIO
+- 🤖 Tenho projetos práticos em **automação e bots**
+- 📈 Em transição de carreira para a área de desenvolvimento
+- 🌱 Sempre aprendendo algo novo
+- 📍 São Paulo, Brasil
 
 ---
 
-### 🎯 Metas de Estudo (2025)
-| Objetivo | Status |
-|-----------|--------|
-| 🧠 Finalizar curso de **Python** do Gustavo Guanabara | ✅ Concluido |
-| ⚙️ Iniciar estudos em **Back-end** (APIs, Flask, Django) | 🕓 Planejado |
-| 🌐 Aprender **HTML, CSS e JavaScript** básicos | 🔄 Em progresso |
-| ☁️ Entender fundamentos de **Git e GitHub** | ✅ Concluído |
-| 💼 Criar meu primeiro **portfólio online** | 🕓 Planejado |
+## 🚀 Projetos em destaque
+
+### 🤖 [Bot de Agendamento — WhatsApp](https://github.com/Gabriel-Dev03/Bot-agendamento-Whatsapp)
+> Automação de agendamentos integrada ao WhatsApp usando Python.  
+> `Python` `Automação` `Bot`
 
 ---
 
-### 💎 Projetos em Destaque
-
-<p align="center">
-
-<a href="https://github.com/Gabriel-Dev03/Desafios-Python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-Dev03&repo=Desafios-Python&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Gabriel-Dev03/Estudos-Python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-Dev03&repo=Estudos-Python&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Gabriel-Dev03/FrontEnd-Basico">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-Dev03&repo=FrontEnd-Basico&theme=tokyonight" />
-</a>
-
-</p>
-
-💡 *Dica:* Você pode trocar os nomes dos repositórios acima pelos que quiser destacar no futuro.
+### 📊 [Monitor de Preços](https://github.com/Gabriel-Dev03/Monitor-Precoss)
+> Monitoramento automático de variações de preço com alertas.  
+> `Python` `Web Scraping` `Automação`
 
 ---
 
-### 📈 Linha do Tempo de Progresso
+### 🧮 [Calculadora CLI](https://github.com/Gabriel-Dev03/Calculadora-CLI-Python)
+> Calculadora de linha de comando com interface textual.  
+> `Python` `CLI`
 
-```mermaid
-timeline
-    title Minha Jornada na Programação 🚀
-    2024 : Início dos estudos em lógica e Python 🐍
-    2025 : Criação do repositório Gabriel-Dev03 e primeiros desafios no GitHub 💡
-    2025 : Aprendendo fundamentos de Front-end (HTML, CSS, JS) 🌐
-    2025 : Iniciando no desenvolvimento Back-end com Python (Flask/Django) ⚙️
-    2026 : Desenvolvendo projetos completos e contribuindo em código aberto 🤝
+---
+
+### 💻 [Desafios de Código](https://github.com/Gabriel-Dev03/Desafios-Codando)
+> Repositório com soluções de desafios práticos de programação.  
+> `Python` `Lógica` `Algoritmos`
+
+---
+
+## 📚 Formação
+
+| Curso | Instituição | Status |
+|-------|------------|--------|
+| Formação Python Backend Developer | DIO | 🔄 Em andamento |
+| Formação Lógica de Programação | DIO | ✅ Concluído |
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieljesus.wpaula@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabriel-Dev03)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Todo especialista já foi um dia iniciante."*
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Gabriel-Dev03.Gabriel-Dev03)
+
+</div>
