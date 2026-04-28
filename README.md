@@ -52,7 +52,7 @@ Ainda estou construindo meu caminho na área de tecnologia — com projetos reai
 
 ---
 
-### 🧮 [Calculadora CLI](https://github.com/Gabriel-Dev03/Calculadora-CLI-Python)
+### 🧮 [Calculadora CLI](https://github.com/Gabriel-Dev03/Calculadora_CLI_Python)
 > Calculadora de linha de comando com interface textual.  
 > `Python` `CLI`
 
