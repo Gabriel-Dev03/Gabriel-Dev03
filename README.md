@@ -9,9 +9,8 @@
  ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝    ╚═════╝ ╚══════╝  ╚═══╝  
 ```
 
-### `< Gabriel Jesus />` — Desenvolvedor em formação
-
-*Transformando lógica em soluções reais, um script de cada vez.*
+### `< Gabriel Jesus />` — Developer in training
+*Turning logic into real solutions, one script at a time.*
 
 ---
 
@@ -25,55 +24,49 @@
 
 ---
 
-## 👤 Sobre mim
+## 👤 About me
 
-Sou desenvolvedor em formação com foco em **Python**, apaixonado por automações e por resolver problemas do dia a dia com código.  
-Ainda estou construindo meu caminho na área de tecnologia — com projetos reais, estudo constante e muita vontade de crescer.
+I'm a developer in training focused on **Python**, passionate about automation and solving everyday problems with code.  
+I'm still building my path in tech — through real projects, constant study, and a strong drive to grow.
 
-- 🔭 Atualmente estudando **Python Backend** na DIO
-- 🤖 Tenho projetos práticos em **automação e bots**
-- 📈 Em transição de carreira para a área de desenvolvimento
-- 🌱 Sempre aprendendo algo novo
-- 📍 São Paulo, Brasil
-
----
-
-## 🚀 Projetos em destaque
-
-### 🤖 [Bot de Agendamento — WhatsApp](https://github.com/Gabriel-Dev03/Bot-agendamento-Whatsapp)
-> Automação de agendamentos integrada ao WhatsApp usando Python.  
-> `Python` `Automação` `Bot`
+- 🔭 Currently studying **Python Backend** at DIO
+- 🤖 Hands-on projects in **automation and bots**
+- 📈 Transitioning into software development
+- 🌱 Always learning something new
+- 📍 São Paulo, Brazil
 
 ---
 
-### 📊 [Monitor de Preços](https://github.com/Gabriel-Dev03/Monitor-Precoss)
-> Monitoramento automático de variações de preço com alertas.  
-> `Python` `Web Scraping` `Automação`
+## 🚀 Featured Projects
 
----
-
-### 🧮 [Calculadora CLI](https://github.com/Gabriel-Dev03/Calculadora_CLI_Python)
-> Calculadora de linha de comando com interface textual.  
+### 🧮 [CLI Calculator](https://github.com/Gabriel-Dev03/Calculadora_CLI_Python)
+> Command-line calculator with a text-based interface.  
 > `Python` `CLI`
+---
+
+## 📚 Education
+
+| Course | Institution | Status |
+|--------|-------------|--------|
+| Python Backend Developer | DIO | 🔄 In progress |
+| Programming Logic | DIO | ✅ Completed |
 
 ---
 
-### 💻 [Desafios de Código](https://github.com/Gabriel-Dev03/Desafios-Codando)
-> Repositório com soluções de desafios práticos de programação.  
-> `Python` `Lógica` `Algoritmos`
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Dev03&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Dev03&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gabriel-Dev03&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## 📚 Formação
-
-| Curso | Instituição | Status |
-|-------|------------|--------|
-| Formação Python Backend Developer | DIO | 🔄 Em andamento |
-| Formação Lógica de Programação | DIO | ✅ Concluído |
-
----
-
-## 📫 Contato
+## 📫 Contact
 
 <div align="center">
 
@@ -86,7 +79,7 @@ Ainda estou construindo meu caminho na área de tecnologia — com projetos reai
 
 <div align="center">
 
-*"Todo especialista já foi um dia iniciante."*
+*"Every expert was once a beginner."*
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Gabriel-Dev03.Gabriel-Dev03)
 
