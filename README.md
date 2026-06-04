@@ -8,7 +8,6 @@
 ╚██████╔╝██║  ██║██████╔╝██║  ██║██║███████╗███████╗    ██████╔╝███████╗ ╚████╔╝ 
  ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝    ╚═════╝ ╚══════╝  ╚═══╝  
 ```
-
 ### `< Gabriel Jesus />` — Developer in training
 *Turning logic into real solutions, one script at a time.*
 ---
@@ -18,7 +17,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 </div>
 ---
-
 ## 👤 About me
 I'm a developer in training focused on **Python**, passionate about automation and solving everyday problems with code.  
 I'm still building my path in tech — through real projects, constant study, and a strong drive to grow.
@@ -28,30 +26,26 @@ I'm still building my path in tech — through real projects, constant study, an
 - 🌱 Always learning something new
 - 📍 São Paulo, Brazil
 ---
-
 ## 🚀 Featured Projects
 ### 🧮 [CLI Calculator](https://github.com/Gabriel-Dev03/Calculadora_CLI_Python)
 > Command-line calculator with a text-based interface.  
 > `Python` `CLI`
 ---
-
 ## 📚 Education
 | Course | Institution | Status |
 |--------|-------------|--------|
 | Python Backend Developer | DIO | 🔄 In progress |
 | Programming Logic | DIO | ✅ Completed |
 ---
-
 ## 📊 GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Dev03&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Dev03&layout=compact&theme=tokyonight)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Dev03&show_icons=true&theme=tokyonight&cache_seconds=1800)](https://github.com/Gabriel-Dev03)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Dev03&layout=compact&theme=tokyonight&cache_seconds=1800)](https://github.com/Gabriel-Dev03)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Gabriel-Dev03&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 ---
-
 ## 📫 Contact
 <div align="center">
 
@@ -60,7 +54,6 @@ I'm still building my path in tech — through real projects, constant study, an
 
 </div>
 ---
-
 <div align="center">
 
 *"Every expert was once a beginner."*
