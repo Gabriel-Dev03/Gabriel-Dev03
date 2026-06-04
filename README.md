@@ -38,18 +38,25 @@ I'm still building my path in tech — through real projects, constant study, an
 ---
 ## 📊 GitHub Stats
 <div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Dev03&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Dev03&layout=compact&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Gabriel-Dev03&theme=tokyonight)](https://git.io/streak-stats)
+
 </div>
 ---
 ## 📫 Contact
 <div align="center">
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](](https://mail.google.com/mail/?view=cm&to=gabrieljesus.wpaula@gmail.com))
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=gabrieljesus.w.paula@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabriel-Dev03)
+
 </div>
 ---
 <div align="center">
+
 *"Every expert was once a beginner."*
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Gabriel-Dev03.Gabriel-Dev03)
+
 </div>
