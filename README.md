@@ -69,7 +69,7 @@ I'm still building my path in tech — through real projects, constant study, an
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieljesus.wpaula@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](](https://mail.google.com/mail/?view=cm&to=gabrieljesus.wpaula@gmail.com))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabriel-Dev03)
 
 </div>
