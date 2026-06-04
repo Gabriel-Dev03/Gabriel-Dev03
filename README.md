@@ -8,6 +8,7 @@
 ╚██████╔╝██║  ██║██████╔╝██║  ██║██║███████╗███████╗    ██████╔╝███████╗ ╚████╔╝ 
  ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝    ╚═════╝ ╚══════╝  ╚═══╝  
 ```
+
 ### `< Gabriel Jesus />` — Developer in training
 *Turning logic into real solutions, one script at a time.*
 ---
@@ -17,6 +18,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 </div>
 ---
+
 ## 👤 About me
 I'm a developer in training focused on **Python**, passionate about automation and solving everyday problems with code.  
 I'm still building my path in tech — through real projects, constant study, and a strong drive to grow.
@@ -26,17 +28,20 @@ I'm still building my path in tech — through real projects, constant study, an
 - 🌱 Always learning something new
 - 📍 São Paulo, Brazil
 ---
+
 ## 🚀 Featured Projects
 ### 🧮 [CLI Calculator](https://github.com/Gabriel-Dev03/Calculadora_CLI_Python)
 > Command-line calculator with a text-based interface.  
 > `Python` `CLI`
 ---
+
 ## 📚 Education
 | Course | Institution | Status |
 |--------|-------------|--------|
 | Python Backend Developer | DIO | 🔄 In progress |
 | Programming Logic | DIO | ✅ Completed |
 ---
+
 ## 📊 GitHub Stats
 <div align="center">
 
@@ -46,6 +51,7 @@ I'm still building my path in tech — through real projects, constant study, an
 
 </div>
 ---
+
 ## 📫 Contact
 <div align="center">
 
@@ -54,6 +60,7 @@ I'm still building my path in tech — through real projects, constant study, an
 
 </div>
 ---
+
 <div align="center">
 
 *"Every expert was once a beginner."*
