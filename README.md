@@ -24,7 +24,6 @@
 I'm a developer in training focused on **Python**, passionate about automation and solving everyday problems with code.  
 I'm still building my path in tech — through real projects, constant study, and a strong drive to grow.
 - 🔭 Currently studying **Python Backend** at DIO
-- 🤖 Hands-on projects in **automation and bots**
 - 📈 Transitioning into software development
 - 🌱 Always learning something new
 - 📍 São Paulo, Brazil
